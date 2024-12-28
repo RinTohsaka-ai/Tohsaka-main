@@ -1,7 +1,7 @@
 # tohsaka
-tohsaka is an AI agent Build with [rig](https://github.com/0xPlaygrounds/rig/)
+Tohsaka is an AI agent Build with [rig](https://github.com/0xPlaygrounds/rig/)
 
-[TWITTER](https://x.com/tohsaka_RIG)
+[TWITTER](https://x.com/RinTohsaka_AI)
 
 ## Added Features
 
